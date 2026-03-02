@@ -1,0 +1,325 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ebcca32a03d000bdfc331b011a0dccc2\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16bb2eca7c5fe1e5c4d671c21dbb584b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\095e9b89fd1e335a19444dd4a2d271f2\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\6d4c067818de59f10373d1310e62e488\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\de433a9a797a089e63cd5356d526363a\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\d2d3c653e97e0279ca9cf391a760a48e\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0c39bac785066288cde72ac3cc6eb816\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84b25ed67c664be267d05c6eef35a812\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0a44b366acc81dbecc230ca99c9ed2a4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16247704040add6694e6d3c4760470e9\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0e21fd88c75f628fb0f4c4c513e9bd99\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\89c97b35412649d83cfe0730ffc595c1\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ea6dde3bc2b8178227bd1d4301a63d78\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dad638a78a1a9b75b3e0b83ac1c95c4e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\8f2251fb63e2663ab7719b0fd9f25f0d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\82a6405fc26aa88553cb9892cabf07d7\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\c8017cec08205fe2fe56725186c1e4d9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\882b5ef0b0b8dedfb567c01954fd23cb\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\434d8fab081a3e45c0028dde1e0b31cf\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9acfe99cc929bc935a2e224763e10d00\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9ead225e2284d7a56d36efae242c2876\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\7305449e5774826e3850d4acaefe1b63\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\51c132dc14ee28168d80566ab2da569f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\14caea6199afcd2c7f7cd89c6452a241\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\89cb987c756b558429eb90ce7b152848\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\abeb7c7e6dfb9c71a728d5707866c0d8\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\5d41b79b5b4d8dbdc582564ca8e2ae13\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\56023a44efdfaa84b6a9b28f6d87b704\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\e0e9a3738a96b1ae789dae1dfa281bef\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\206ef7c66ea2aa5a78c73876b5a03882\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9575ad929567ce961144cc8cd7945988\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\aee260921a051e330449a7732b3104ec\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84c5cd5c852f692d7cc0a15294d5d06d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\a2c176479551e07f273b2c83c8bf6dec\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\11019ebf3305dd54bd7978de978cca71\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\a65d1db707a9fe67d73c4436ee157e5f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\f1a9d2fb27b7fc37a319e54c77b889c2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ee87f123d80848fceab3b55426565a85\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\07c9ed9755cfc5339b8a9a1c32004e16\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:8:5-35:19
+INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:8:5-35:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ebcca32a03d000bdfc331b011a0dccc2\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ebcca32a03d000bdfc331b011a0dccc2\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16bb2eca7c5fe1e5c4d671c21dbb584b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16bb2eca7c5fe1e5c4d671c21dbb584b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\206ef7c66ea2aa5a78c73876b5a03882\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\206ef7c66ea2aa5a78c73876b5a03882\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84c5cd5c852f692d7cc0a15294d5d06d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84c5cd5c852f692d7cc0a15294d5d06d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:10:9-52
+	android:roundIcon
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:14:9-50
+activity#com.example.inventoryapp.MainActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:exported
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.inventoryapp.RegisterActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:26:9-54
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:26:19-51
+activity#com.example.inventoryapp.DashboardActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:28:9-55
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:28:19-52
+activity#com.example.inventoryapp.AddProductActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:29:19-53
+activity#com.example.inventoryapp.ProductListActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:30:19-54
+activity#com.example.inventoryapp.VendorListActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:31:9-56
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:31:19-53
+activity#com.example.inventoryapp.AddVendorActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:32:9-55
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:32:19-52
+activity#com.example.inventoryapp.SaleProductActivity
+ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:33:9-57
+	android:name
+		ADDED from D:\inventoryapp2\app\src\main\AndroidManifest.xml:33:19-54
+uses-sdk
+INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ebcca32a03d000bdfc331b011a0dccc2\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ebcca32a03d000bdfc331b011a0dccc2\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16bb2eca7c5fe1e5c4d671c21dbb584b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16bb2eca7c5fe1e5c4d671c21dbb584b\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\095e9b89fd1e335a19444dd4a2d271f2\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\095e9b89fd1e335a19444dd4a2d271f2\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\6d4c067818de59f10373d1310e62e488\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\6d4c067818de59f10373d1310e62e488\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\de433a9a797a089e63cd5356d526363a\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\de433a9a797a089e63cd5356d526363a\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\d2d3c653e97e0279ca9cf391a760a48e\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\d2d3c653e97e0279ca9cf391a760a48e\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0c39bac785066288cde72ac3cc6eb816\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0c39bac785066288cde72ac3cc6eb816\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84b25ed67c664be267d05c6eef35a812\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84b25ed67c664be267d05c6eef35a812\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0a44b366acc81dbecc230ca99c9ed2a4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0a44b366acc81dbecc230ca99c9ed2a4\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16247704040add6694e6d3c4760470e9\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\16247704040add6694e6d3c4760470e9\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0e21fd88c75f628fb0f4c4c513e9bd99\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\0e21fd88c75f628fb0f4c4c513e9bd99\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\89c97b35412649d83cfe0730ffc595c1\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\89c97b35412649d83cfe0730ffc595c1\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ea6dde3bc2b8178227bd1d4301a63d78\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ea6dde3bc2b8178227bd1d4301a63d78\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dad638a78a1a9b75b3e0b83ac1c95c4e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dad638a78a1a9b75b3e0b83ac1c95c4e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\8f2251fb63e2663ab7719b0fd9f25f0d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\8f2251fb63e2663ab7719b0fd9f25f0d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\82a6405fc26aa88553cb9892cabf07d7\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\82a6405fc26aa88553cb9892cabf07d7\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\c8017cec08205fe2fe56725186c1e4d9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\c8017cec08205fe2fe56725186c1e4d9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\882b5ef0b0b8dedfb567c01954fd23cb\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\882b5ef0b0b8dedfb567c01954fd23cb\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\434d8fab081a3e45c0028dde1e0b31cf\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\434d8fab081a3e45c0028dde1e0b31cf\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9acfe99cc929bc935a2e224763e10d00\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9acfe99cc929bc935a2e224763e10d00\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9ead225e2284d7a56d36efae242c2876\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9ead225e2284d7a56d36efae242c2876\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\7305449e5774826e3850d4acaefe1b63\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\7305449e5774826e3850d4acaefe1b63\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\51c132dc14ee28168d80566ab2da569f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\51c132dc14ee28168d80566ab2da569f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\14caea6199afcd2c7f7cd89c6452a241\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\14caea6199afcd2c7f7cd89c6452a241\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\89cb987c756b558429eb90ce7b152848\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\89cb987c756b558429eb90ce7b152848\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\abeb7c7e6dfb9c71a728d5707866c0d8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\abeb7c7e6dfb9c71a728d5707866c0d8\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\5d41b79b5b4d8dbdc582564ca8e2ae13\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\5d41b79b5b4d8dbdc582564ca8e2ae13\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\56023a44efdfaa84b6a9b28f6d87b704\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\56023a44efdfaa84b6a9b28f6d87b704\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\e0e9a3738a96b1ae789dae1dfa281bef\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\e0e9a3738a96b1ae789dae1dfa281bef\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\206ef7c66ea2aa5a78c73876b5a03882\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\206ef7c66ea2aa5a78c73876b5a03882\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9575ad929567ce961144cc8cd7945988\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\9575ad929567ce961144cc8cd7945988\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\aee260921a051e330449a7732b3104ec\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\aee260921a051e330449a7732b3104ec\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84c5cd5c852f692d7cc0a15294d5d06d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\84c5cd5c852f692d7cc0a15294d5d06d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\a2c176479551e07f273b2c83c8bf6dec\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\a2c176479551e07f273b2c83c8bf6dec\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\11019ebf3305dd54bd7978de978cca71\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\11019ebf3305dd54bd7978de978cca71\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\a65d1db707a9fe67d73c4436ee157e5f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\a65d1db707a9fe67d73c4436ee157e5f\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\f1a9d2fb27b7fc37a319e54c77b889c2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\f1a9d2fb27b7fc37a319e54c77b889c2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ee87f123d80848fceab3b55426565a85\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\ee87f123d80848fceab3b55426565a85\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\07c9ed9755cfc5339b8a9a1c32004e16\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\07c9ed9755cfc5339b8a9a1c32004e16\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\inventoryapp2\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\206ef7c66ea2aa5a78c73876b5a03882\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\206ef7c66ea2aa5a78c73876b5a03882\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\87965d106a2b4fcd760becaebcac5bc0\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\636e95d8a4f74bc98fbb59cac97bebc9\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.inventoryapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.inventoryapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\dc64e1ed1b675632886e32fb230e1793\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\LAPTOP CLINIC\.gradle\caches\8.11.1\transforms\975e5ee09fae0b7d677e6d63ba313f6f\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

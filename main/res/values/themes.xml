@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.InventoryApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary branding color. -->
+        <item name="colorPrimary">#013137</item>
+        <item name="colorPrimaryVariant">#013137</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary branding color. -->
+        <item name="colorSecondary">#BFE7DE</item>
+        <item name="colorSecondaryVariant">#BFE7DE</item>
+        <item name="colorOnSecondary">#013137</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your app theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/add_vendor_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BFE7DE"
+    tools:context=".AddVendorActivity">
+
+    <!-- Custom Toolbar with centered title -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_add_vendor"
+        android:layout_width="0dp"
+        android:layout_height="56dp"
+        android:background="#013137"
+        app:navigationIcon="@android:drawable/ic_menu_revert"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Add Vendor"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- Label: Vendor Name -->
+    <TextView
+        android:id="@+id/labelVendorName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vendor Name"
+        android:textColor="#013137"
+        android:textSize="16sp"
+        app:layout_constraintTop_toBottomOf="@id/toolbar_add_vendor"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Vendor Name -->
+    <EditText
+        android:id="@+id/etVendorName"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter vendor name"
+        android:padding="12dp"
+        android:inputType="textCapWords"
+        android:textColor="#000000"
+        android:background="@android:drawable/editbox_background_normal"
+        app:layout_constraintTop_toBottomOf="@id/labelVendorName"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="4dp"
+        android:layout_marginHorizontal="24dp" />
+
+    <!-- Label: Contact Number -->
+    <TextView
+        android:id="@+id/labelVendorContact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact Number"
+        android:textColor="#013137"
+        android:textSize="16sp"
+        app:layout_constraintTop_toBottomOf="@id/etVendorName"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Vendor Contact -->
+    <EditText
+        android:id="@+id/etVendorContact"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter contact number"
+        android:padding="12dp"
+        android:inputType="phone"
+        android:textColor="#000000"
+        android:background="@android:drawable/editbox_background_normal"
+        app:layout_constraintTop_toBottomOf="@id/labelVendorContact"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="4dp"
+        android:layout_marginHorizontal="24dp" />
+
+    <!-- Label: Email -->
+    <TextView
+        android:id="@+id/labelVendorEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textColor="#013137"
+        android:textSize="16sp"
+        app:layout_constraintTop_toBottomOf="@id/etVendorContact"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Vendor Email -->
+    <EditText
+        android:id="@+id/etVendorEmail"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter email address"
+        android:padding="12dp"
+        android:inputType="textEmailAddress"
+        android:textColor="#000000"
+        android:background="@android:drawable/editbox_background_normal"
+        app:layout_constraintTop_toBottomOf="@id/labelVendorEmail"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="4dp"
+        android:layout_marginHorizontal="24dp" />
+
+    <!-- Label: Address -->
+    <TextView
+        android:id="@+id/labelVendorAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textColor="#013137"
+        android:textSize="16sp"
+        app:layout_constraintTop_toBottomOf="@id/etVendorEmail"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp" />
+
+    <!-- Vendor Address -->
+    <EditText
+        android:id="@+id/etVendorAddress"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Enter address"
+        android:padding="12dp"
+        android:inputType="textPostalAddress"
+        android:textColor="#000000"
+        android:background="@android:drawable/editbox_background_normal"
+        app:layout_constraintTop_toBottomOf="@id/labelVendorAddress"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="4dp"
+        android:layout_marginHorizontal="24dp" />
+
+    <!-- Save Button -->
+    <Button
+        android:id="@+id/btnSaveVendor"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="24dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/rounded_button_background"
+        android:backgroundTint="#013137"
+        android:text="Save Vendor"
+        android:textColor="#FAFAFA"
+        app:layout_constraintTop_toBottomOf="@id/etVendorAddress"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

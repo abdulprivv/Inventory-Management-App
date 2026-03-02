@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.inventoryapp">
+
+    <!-- Optional: Internet permission if needed -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:label="Inventory Management System"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.InventoryApp">
+
+        <!-- Launcher Activity -->
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- All other app activities -->
+        <activity android:name=".RegisterActivity" />
+
+        <activity android:name=".DashboardActivity" />
+        <activity android:name=".AddProductActivity" />
+        <activity android:name=".ProductListActivity" />
+        <activity android:name=".VendorListActivity" />
+        <activity android:name=".AddVendorActivity" />
+        <activity android:name=".SaleProductActivity" />
+
+    </application>
+
+</manifest>
